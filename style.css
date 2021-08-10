@@ -68,7 +68,7 @@ main {
 }
 
 .card__content__info {
-  height: 130px;
+  height: 140px;
   display: flex;
   justify-content: flex-end;
   align-items: center;
@@ -94,7 +94,7 @@ main {
   display: flex;
   justify-content: space-around;
   justify-items: center;
-  height: 80px;
+  height: 86px;
 }
 
 .card__content__stats div {
@@ -106,8 +106,9 @@ main {
 }
 
 .card__content__stats div p {
-  font-size: 0.9em;
+  font-size: 0.8em;
   color: var(--dark-gr-blue);
+  letter-spacing: 1px;
 }
 
 .horizontal-line {
